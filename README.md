@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Dsa**
 
-- 👨‍💻 All of my projects are available at [https://github.com/its-ajay-shakya](https://github.com/its-ajay-shakya)
-
-- 📫 How to reach me **https://www.linkedin.com/in/ajay-shakya-43065b271/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a_4_ajayshakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_4_ajayshakya" height="30" width="40" /></a>
