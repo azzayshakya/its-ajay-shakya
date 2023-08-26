@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ajay shakya</h1>
 <h3 align="center">A web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-ajay-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="its-ajay-shakya" /> </p>
+
 
 - 🔭 I’m currently working on **full stack projects.**
 
